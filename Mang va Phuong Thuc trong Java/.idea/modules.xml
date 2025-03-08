@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mang va Phuong Thuc trong Java.iml" filepath="$PROJECT_DIR$/.idea/Mang va Phuong Thuc trong Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array-operations/array-operations.iml" filepath="$PROJECT_DIR$/array-operations/array-operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/convert-temperature/convert-temperature.iml" filepath="$PROJECT_DIR$/convert-temperature/convert-temperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/merge-arrays/merge-arrays.iml" filepath="$PROJECT_DIR$/merge-arrays/merge-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/min-value/min-value.iml" filepath="$PROJECT_DIR$/min-value/min-value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remove-element/remove-element.iml" filepath="$PROJECT_DIR$/remove-element/remove-element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse-array/reverse-array.iml" filepath="$PROJECT_DIR$/reverse-array/reverse-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-array/student-array.iml" filepath="$PROJECT_DIR$/student-array/student-array.iml" />
+    </modules>
+  </component>
+</project>
